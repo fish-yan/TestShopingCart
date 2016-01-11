@@ -1,0 +1,10 @@
+PODS:
+  - KNSemiModalViewController_hons82 (0.4.4)
+
+DEPENDENCIES:
+  - KNSemiModalViewController_hons82 (~> 0.4.4)
+
+SPEC CHECKSUMS:
+  KNSemiModalViewController_hons82: 22aead5ef5d8ca749bc1babb43fa7d6f14b030a3
+
+COCOAPODS: 0.39.0
